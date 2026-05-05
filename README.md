@@ -1,7 +1,7 @@
 # HIV-model
-Spatiotemporal Bayesian forecasting model of HIV-infection spread in Ukraine (2014-2025) with statistical analysis
+Spatiotemporal Bayesian forecasting model of HIV-infection spread in Ukraine (2014-2026) with statistical analysis
 
-# HIV Spread Model in Ukraine (2014-2025)
+# HIV Spread Model in Ukraine (2014-2026)
 
 A comprehensive spatiotemporal analysis and forecasting model for HIV/AIDS spread across Ukrainian regions using Bayesian methods.
 
@@ -22,7 +22,7 @@ The model provides actionable insights that directly contribute to national HIV/
 
 ## Project Objectives
 
-- Extract and standardize HIV/AIDS case data from monthly regional reports (2014-2025)
+- Extract and standardize HIV/AIDS case data from monthly regional reports (2014-2026)
 - Identify temporal trends and spatial clusters in disease spread
 - Build a predictive model for regional HIV morbidity forecasting
 - Provide open-source model and dataset for public health research
@@ -35,7 +35,7 @@ The model provides actionable insights that directly contribute to national HIV/
 **Objective**: Transform unstructured monthly HIV/AIDS reports into a structured, analysis-ready dataset.
 
 **Process**:
-- Collected monthly regional reports covering all Ukrainian regions (2014-2025)
+- Collected monthly regional reports covering all Ukrainian regions (2014-2026)
 - Implemented automated data extraction using OpenAI API
 - Standardized data formats and resolved inconsistencies
 - Validated data quality and completeness
