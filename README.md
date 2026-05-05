@@ -73,5 +73,5 @@ The model provides actionable insights that directly contribute to national HIV/
 
 **Training Configuration**:
 - Training set: 70% of data (2014-2021)
-- Test set: 30% of data (2022-2025)
+- Test set: 30% of data (2022-2026)
 - Cross-validation applied for robustness
